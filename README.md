@@ -13,13 +13,13 @@ Basically its setting your classpath so that you can execute your Java code from
 
 Add the following three variables and values :
 
-JAVA_HOME
+JAVA_HOME <br />
 C:\Program Files\Java\jdk1.8.0_51\bin
 
-JRE_HOME
+JRE_HOME <br />
 C:\Program Files\Java\jre1.8.0_131
 
-CATALINA_HOME
+CATALINA_HOME <br />
 Your apache extract folder\apache-tomcat-9.0.1
 
 And there will be a path variable. Add this line.
