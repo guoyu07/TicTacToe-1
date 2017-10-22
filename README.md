@@ -4,6 +4,8 @@ This is a game of the famous TicTacToe which can be played with an AI or your fr
 Setup 
 -----
 
+Extract the apache-tomcat-9.0.1.
+
 Environment variables
 Go to Control Panel\System and Security\System
 Next is Advanced system settings --> Go to Advanced tab --> Environment Variables
@@ -27,6 +29,9 @@ And there will be a path variable. Add this line.
 
 You are done setting up, I promise.
 
-Extract the apache-tomcat-9.0.1.
+Fire up the CMD.
+Type startup.bat
+And Hit Enter.
+
 
 Open http://localhost:8080/Game/ in your browser.
