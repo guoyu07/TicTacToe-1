@@ -1,0 +1,16 @@
+The technology used is Java J2EE.
+
+The design pattern used is MVC (Model - View - Controller)
+
+Model - POJO (your plain old Java classes)
+View - Html and CSS 
+Controller - Servlets
+
+Frontend languages
+1. Html and Jsp for page outlet 
+2. CSS for styling
+3. Javascript and Jquery for validation in Front End
+
+Backend technologies
+1. Servlets 
+2. POJO classes
