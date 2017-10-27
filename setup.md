@@ -1,6 +1,8 @@
 # Setup
 
-  ### A simple setup to test the project.
+ **A simple setup to test the project.**
+<br />
+<br />
 
 ### Downloads
 
@@ -16,17 +18,17 @@
 *Eclispe Mars* - http://www.eclipse.org/downloads/download.php?file=/technology/epp/downloads/release/mars/R/eclipse-jee-mars-R-win32-x86_64.zip <br />
 <br />
 <br />
-There are two ways to run your project :  <br />
+There are two ways to run this project :  <br />
 <br />
-1. Eclipse (The simpler way first, duh !) <br />
+1. **Eclipse** (The simpler way first, duh !) <br />
 <br />
-  i. Download Eclipse from the link given. <br />
-  ii. Import the folder **Game**  <br />
-  iii. Setup the server after downloading from the link given. <br />
-  iv. Run the project. The browser will fire up. <br />
+  * Download Eclipse from the link given. <br />
+  * Import the folder **Game**  <br />
+  * Setup the server after downloading from the link given. <br />
+  * Run the project. The browser will fire up. <br />
  <br />
  <br />
- 2. Command Prompt (A little tricky, but interesting) <br />
+ 2. **Command Prompt** (A little tricky, but interesting) <br />
 <br />
   i. Setup some variables. <br />
    Go to Control Panel\System and Security\System Next is Advanced system settings --> Go to Advanced tab --> Environment Variables         Basically its setting your classpath so that you can execute your Java code from anywhere. <br />
