@@ -22,10 +22,10 @@ There are two ways to run this project :  <br />
 <br />
 1. **Eclipse** (The simpler way first, duh !) <br />
 <br />
-  * Download Eclipse from the link given. <br />
-  * Import the folder **Game**  <br />
-  * Setup the server after downloading from the link given. <br />
-  * Run the project. The browser will fire up. <br />
+  i. Download Eclipse from the link given. <br />
+  ii. Import the folder **Game**  <br />
+  iii. Setup the server after downloading from the link given. <br />
+  iv. Run the project. The browser will fire up. <br />
  <br />
  <br />
  2. **Command Prompt** (A little tricky, but interesting) <br />
