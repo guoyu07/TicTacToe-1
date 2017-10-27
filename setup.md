@@ -1,10 +1,9 @@
 # Setup
--------
-  ### A simple setup to test the project. <br />
-<br />
-<br />
-#### Downloads <br />
------------ <br />
+
+  ### A simple setup to test the project.
+
+### Downloads
+
 *Server to run the project* <br />
   Apache Tomcat 9.0.1 - http://www-eu.apache.org/dist/tomcat/tomcat-9/v9.0.1/bin/apache-tomcat-9.0.1.zip <br />
 <br />
@@ -16,12 +15,13 @@
 <br />
 *Eclispe Mars* - http://www.eclipse.org/downloads/download.php?file=/technology/epp/downloads/release/mars/R/eclipse-jee-mars-R-win32-x86_64.zip <br />
 <br />
+<br />
 There are two ways to run your project :  <br />
 <br />
 1. Eclipse (The simpler way first, duh !) <br />
 <br />
   i. Download Eclipse from the link given. <br />
-  ii. Import the folder Shopping  <br />
+  ii. Import the folder **Game**  <br />
   iii. Setup the server after downloading from the link given. <br />
   iv. Run the project. The browser will fire up. <br />
  <br />
@@ -46,14 +46,9 @@ There are two ways to run your project :  <br />
 <br />
     %CATALINA_HOME%\bin <br />
 <br />
-  ii. Hibernate configuration <br />
-  You can configure the hibernate.cfg file for your settings of database and password. <br />
-  But if you have a Oracle 9, you can just create a user with credentials: <br />
-  username - satyaki <br />
-  password - qwerty <br />
-  iii. We need to create a war(Web ARchive) file of the project. Open command prompt. Go inside the project directory of the project (outside the WEB-INF), then write the following command: <br />
+  ii. We need to create a war(Web ARchive) file of the project. Open command prompt. Go inside the project directory of the project (outside the WEB-INF), then write the following command: <br />
   jar -cvf Game.war * <br />
-  iv. Deploy the war file in apache tomcat server by going go to the webapps directory of apache tomcat and paste the war file here.
+  iii. Deploy the war file in apache tomcat server by going go to the webapps directory of apache tomcat and paste the war file here.
 <br />
   v. Type startup.bat in CMD And Hit Enter. <br />
 <br />
